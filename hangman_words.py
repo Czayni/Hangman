@@ -1,0 +1,20 @@
+word_list = [
+'aktor', 
+'kaktus',
+'szuflada',
+'gitara', 
+'wiosna', 
+'znak', 
+'ciało', 
+'zabawka', 
+'formularz',
+'kolej', 
+'siedzenie', 
+'kraj', 
+'kot', 
+'odznaka', 
+'seler', 
+'flaga', 
+'kotek', 
+'mapa'
+]
